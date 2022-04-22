@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "336592396788",
+    "project_id": "daniilss18019262-cs6002-app2",
+    "storage_bucket": "daniilss18019262-cs6002-app2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336592396788:android:521890020db71aecebd9a1",
+        "android_client_info": {
+          "package_name": "com.example.daniilss18019262_cs6002_app2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336592396788-62u6qb73mbd41h7ssinlpsb38ion59us.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByPMpC7nrMkKr8G80KpEvlFUzRT4cfEKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336592396788-62u6qb73mbd41h7ssinlpsb38ion59us.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

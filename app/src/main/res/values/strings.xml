@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">daniilss18019262_cs6002_app2</string>
+    <string name="enter_your_phone_no">Enter Your Phone No.</string>
+    <string name="phone_no">Phone No.</string>
+    <string name="generate_otp">Generate OTP</string>
+    <string name="verify_otp" />
+    <string name="otp">OTP</string>
+    <string name="verify_OTP">Verify OTP</string>
+</resources>
